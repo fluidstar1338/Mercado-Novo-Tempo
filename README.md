@@ -1,33 +1,46 @@
-📘 Sistema de Cadastro para Mercado - VB.NET
-Este projeto é um sistema de gerenciamento desenvolvido em VB.NET, voltado para o controle de um pequeno mercado. O sistema inclui funcionalidades essenciais como cadastro de produtos, cadastro de funcionários e gerenciamento de dados, com foco em praticidade e organização.
+# 📘 Sistema de Cadastro para Mercado - VB.NET
 
-🔧 Funcionalidades
-Cadastro de Funcionários
+Este projeto é um sistema de gerenciamento desenvolvido em **VB.NET**, voltado para o controle de um **pequeno mercado**. O sistema inclui funcionalidades essenciais como **cadastro de produtos**, **cadastro de funcionários** e **gerenciamento de dados**, com foco em **praticidade e organização**.
 
-Permite registrar dados dos colaboradores, como nome, CPF, cargo e data de admissão.
+---
 
-Interface simples para adicionar, editar e remover registros.
+## 🔧 Funcionalidades
 
-Cadastro de Produtos
+### 👥 Cadastro de Funcionários
+- Registro de colaboradores com informações como **nome, CPF, cargo e data de admissão**.
+- Interface simples para **adicionar, editar e remover registros**.
 
-Armazena informações como nome do produto, código de barras, categoria, preço e quantidade em estoque.
+### 🛒 Cadastro de Produtos
+- Armazenamento de dados como **nome do produto, código de barras, categoria, preço e quantidade em estoque**.
+- Opções para **atualizar ou excluir** produtos cadastrados.
 
-Inclui opções para atualizar ou excluir produtos do sistema.
+### 👤 Cadastro de Clientes 
+- Registro de **clientes frequentes**, útil para controle de vendas e promoções futuras.
 
-Cadastro de Clientes (opcional)
+### 🖥️ Interface Amigável
+- Telas com **menus intuitivos** e navegação clara.
+- Desenvolvido para ser usado mesmo por **usuários sem experiência técnica**.
 
-Possibilidade de registrar clientes frequentes para controle de vendas ou promoções futuras.
+---
 
-Interface amigável
+## 🚀 Tecnologias Utilizadas
 
-Telas com menus intuitivos e navegação clara, facilitando o uso mesmo para usuários sem experiência técnica.
+- **VB.NET** (Windows Forms)
+- **SQL Server** (Banco de dados relacional)
+- **Visual Studio** (Ambiente de desenvolvimento)
 
-🚀 Tecnologias Utilizadas
-VB.NET (Windows Forms)
+---
 
-Banco de dados SQL Server
+## 💡 Objetivo
 
-Visual Studio
+Este projeto foi criado com o objetivo de **praticar e aplicar conhecimentos** em desenvolvimento desktop com VB.NET, incluindo:
 
-💡 Objetivo
-Este projeto foi criado com o objetivo de praticar e aplicar conhecimentos em desenvolvimento desktop com VB.NET, incluindo manipulação de formulários, integração com banco de dados e lógica de negócios. Ele simula o funcionamento básico de um sistema real de gestão para pequenos comércios, como mercearias ou minimercados.
+- Manipulação de **formulários gráficos (Windows Forms)**
+- **Integração com banco de dados**
+- Implementação de **lógica de negócios**
+
+A aplicação simula o funcionamento básico de um **sistema real de gestão** para pequenos comércios, como **mercearias ou minimercados**, sendo ideal tanto para aprendizado quanto para prototipagem de soluções.
+
+---
+
+
